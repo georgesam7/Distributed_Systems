@@ -1,0 +1,6 @@
+minimum-workers: 1;
+chunk-size: 2;
+max-retries: 3;
+client-wait: 5000;
+client-port: 60550;
+worker-port: 60551;
