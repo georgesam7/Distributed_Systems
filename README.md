@@ -8,5 +8,5 @@ This project is a distributed systems tracking application similar to Strava. It
 ## Technologies Used
 * Backend:
     Java: The backend server is implemented using Java, providing the business logic and handling requests from the frontend.
-*Frontend:
+* Frontend:
     Java Android Studio: The frontend mobile application is developed using Java in Android Studio, targeting Android devices.
